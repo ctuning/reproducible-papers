@@ -1,0 +1,10 @@
+{
+  "data_uoa": "reproducible-papers",
+  "data_uid": "464e129546330d68",
+  "data_alias": "reproducible-papers",
+  "data_name": "reproducible-papers",
+  "dict": {
+    "shared": "git",
+    "url": "https://github.com/ctuning/reproducible-papers"
+  }
+}
